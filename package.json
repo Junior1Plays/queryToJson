@@ -1,0 +1,14 @@
+{
+  "name": "querytojson",
+  "version": "1.0.0",
+  "description": "querytojson is an api that converts query params to json object",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Junior Schueller",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
